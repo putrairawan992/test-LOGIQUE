@@ -1,5 +1,5 @@
 import { combineReducers, configureStore } from "@reduxjs/toolkit";
-import themeSlice from "@-utils/redux/slice/themeSlice";
+import themeSlice from "@utils/redux/slice/themeSlice";
 import songSlice from "../slice/songSlice";
 import errorSlice from "../slice/errorSlice";
 
